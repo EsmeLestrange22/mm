@@ -1,0 +1,25 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    font-family: 'Patrick Hand', cursive;
+    color:white;
+    font-size: 28px;
+}
+.note1{
+    font-family: 'Patrick Hand', cursive;
+    color:white;
+    font-size: 22px; 
+}
+.wolf_r{
+    float: right;
+    
+}
+.wolf_l{
+    float: left;
+}
+h3{
+    margin-left: 50px;
+    margin-right: 50px;
+}
